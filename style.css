@@ -1,0 +1,54 @@
+@charset "UTF-8";
+*body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color:rgb(100, 192, 161);
+}
+
+header {
+    color: white;
+    text-align: center;
+
+}
+
+section {
+    background-color: white;
+    max-width: 500px;
+    margin: auto;
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 5px 3px 5px rgba(0, 0, 0, 0.137);
+}
+div {
+    text-align: center;
+    padding: 8px;
+}
+img {
+    border-radius: 50%;
+    margin: auto;
+    clear: both;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+#msg {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    color:rgb(34, 33, 33);
+    font-family: 'Arial', sans-serif;
+    margin: 10px 0;
+}
+
+#msg span {
+    padding: 20px;
+    background-color:lavender;
+    border-radius: 10px;
+}

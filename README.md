@@ -1,2 +1,2 @@
-# relogiodigital
-Relógio digital com alguns eventos DOM para cada momento do dia
+# horadodia
+Exercício referente ao curso de JS, onde o design da página muda conforma a hora do dia.
